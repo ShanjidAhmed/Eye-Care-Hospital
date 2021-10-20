@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "CATARACT & PRIMARY EYE CARE SERVICE",
+        "description": "The Cataract & Primary Eye Care Service (CPEC) of Wills Eye Hospital provides comprehensive eye care and treatment of patients with conditions that affect vision and ocular health including eye examinations and evaluation and surgical care for cataracts.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxKUJtKH-8RqTSea-ez6To_HaJrS_RW52cg&usqp=CAU",
+        "info": "Block B, 3rd floor",
+        "head": "DR. RENA AKTER",
+        "find": "See doctors in this department",
+        "appointment": "Call us or fill in a form"
+      },
+    {
+        "id": 2,
+        "name": "NEURO-OPHTHALMOLOGY SERVICE",
+        "description": "Wills Eye neuro-ophthalmologists are world leaders in the diagnosis, and treatment of vision problems related to the nervous system. We specialize in the eye-brain connection and evaluate conditions such as optic neuritis, visual field loss, visual disturbances, abnormal eye movements, thyroid eye disease, and myasthenia gravis.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQplNNaaEhibVBDOGfmhlhQWNf2VLrUl0977A&usqp=CAU",
+        "info": "Block A, 2nd floor",
+        "head": "DR. ALI ABDAL",
+        "find": "See doctors in this department",
+        "appointment": "Call us or fill in a form"
+      },
+    {
+        "id": 3,
+        "name": "OCULAR ONCOLOGY SERVICE",
+        "description": "The Ocular Oncology Service is a world-class center for the diagnosis and treatment of a variety of eye tumors and cancers. This service is the largest eye cancer center in the United States and provides care for patients with common and rare cancers, many of which are serious life-threatening conditions.",
+        "image": "https://www.willseye.org/wp-content/uploads/2017/06/carol_jerry_shields-64_web.jpg",
+        "info": "Block B,4th floor",
+        "head": "Carol L. Shields, MD, Chief & Jerry A. Shields, MD Chief Emeritus",
+        "find": "See doctors in this department",
+        "appointment": "Call us or fill in a form"
+      }
+]

@@ -1,0 +1,10 @@
+.single-service img {
+  width: 100%;
+  filter: brightness(45%);
+  height: 75vh;
+  object-fit: cover;
+}
+
+.text {
+  background-image: url();
+}

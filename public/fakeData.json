@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "title": "EYE EMERGENCY DEPARTMENT",
+      "doctor": "Ralph Eagle",
+      "email": "ralph@april.biz",
+      "price": "150",
+      "days": "3",
+      "phone": "1-780-736-8031 x56442",
+      "serviceDEscription": "Seek emergency care if you believe your eyesight is in jeopardy, if you are in severe pain, or if you have any of the following symptoms: Sudden vision loss, Pain in or around the eye, Redness accompanied by pain in the eye etc.",
+      "image": "../images/003-doctor.png",
+      "serviceImage": "https://www.drbatras.co.uk/themes/custom/batra_uae/images/our-doctor-spotlight-mob.jpg",
+      "doctorPhoto": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+      "doctorDescription": "Ralph C. Eagle, Jr., MD is Chief of the Pathology Service at Wills Eye Hospital and Professor of Ophthalmology and Pathology at Sidney Kimmel Medical College. He graduated from the University of Pennsylvania School of Medicine in 1970, interned at Temple University Hospital"
+    },
+    {
+      "id": 2,
+      "title": "CATARACT & PRIMARY EYE CARE SERVICE",
+      "doctor": "Janine Tabas",
+      "email": "Sincere@march.biz",
+      "price": "125",
+      "days": "3",
+      "phone": "1-260-364-6951 x67856",
+      "serviceDEscription": "This is a pre-operative service for people who have been referred by their optometrist, GP or treatment centre following the identification of a cataract which is affecting their vision.",
+      "image": "../images/006-couple-counseling.png",
+      "serviceImage": "https://bohatala.com/wp-content/uploads/2017/07/medical-counseling.jpg",
+      "doctorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDS69XwHrzjRbpPgBd326bUMDCfJ1amo5cdZ4izY9Ii31kGPyyIhDNptz-NkvZmEhVXnA&usqp=CAU",
+      "doctorDescription": "Graduated from American Board of Ophthalmology. Wprked as Instructor, Sidney Kimmel Medical College at Thomas Jefferson University."
+    },
+    {
+      "id": 3,
+      "title": "WILLS EYE GENE DISCOVERY AND TREATMENT PROGRAM",
+      "doctor": "Jonathan Myers",
+      "email": "Sincere@june.biz",
+      "price": "625",
+      "days": "5/6",
+      "phone": "1-964-736-4695 x65696",
+      "serviceDEscription": "Wills Eye, in partnership with Dr. Edwin Stone, an internationally-recognized physician-scientist at the University of Iowa Institute for Vision Research (UIIVR), is now positioned to change that paradigm. Our experience, access to patients with rare disorders, and the expertise to deliver new treatments puts us in a pivotal position to hasten the pace of treatment development and ultimately cure this form of blindness. Together, this collaboration will put 30 years of research into practice and over the next decade slow or stop the progression of disease in young patients  - and even restore some vision to patients with advanced vision loss caused by retinitis pigmentosa, Stargardt disease, and perhaps even age related macular degeneration.",
+      "image": "../images/004-blood-bank.png",
+      "serviceImage": "https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/pathology/blood-banking-teaser.ashx",
+      "doctorPhoto": "https://europeansting.files.wordpress.com/2020/04/young-doctors_.jpeg?w=610",
+      "doctorDescription": "Jonathan S. Myers, MD, a board-certified ophthalmologist, is Chief of the Wills Eye Glaucoma Service. His central tenet is that each patient should determine, with the help of their physician, what is in their best interest among the available treatments."
+
+      
+    },
+    {
+      "id": 4,
+      "title": "GLAUCOMA TREATMENT & SERVICES",
+      "doctor": "Eli Dale",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "Wills Eye specialists are dedicated to providing world-class glaucoma treatment and care. The disease is often asymptomatic, and people may lose their vision without knowing it. Regular eye exams are an important way to detect the disease.",
+      "image": "../images/002-operation.png",
+      "serviceImage": "https://ichef.bbci.co.uk/news/1024/media/images/70543000/jpg/_70543869_optheatre.jpg",
+      "doctorPhoto": "https://media.istockphoto.com/photos/portrait-of-a-confident-young-doctor-using-a-digital-tablet-picture-id1267013720?b=1&k=20&m=1267013720&s=170667a&w=0&h=fplvckjYyHoZIQ6O6p01dVF7pdrBYkBTP4rrhMx58v8=",
+      "doctorDescription": "Eli was born in Maryland and attended Elizabethtown College in central Pennsylvania, where he studied physics with minors in chemistry and biology, and graduated with honors. He then attended Penn State College of Medicine in Hershey, Pennsylvania where he was elected to Alpha Omega Alpha. "
+    },
+    {
+      "id": 5,
+      "title": "WILLS EYE NEURO-OPHTHALMOLOGY SERVICE",
+      "doctor": "Robert Scot",
+      "email": "Sincere@august.biz",
+      "price": "305",
+      "days": "4",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "Wills Eye neuro-ophthalmologists are world leaders in the diagnosis, and treatment of vision problems related to the nervous system. We specialize in the eye-brain connection and evaluate conditions such as optic neuritis, visual field loss, visual disturbances, abnormal eye movements, thyroid eye disease, and myasthenia gravis.",
+      "image": "../images/007-pills.png",
+      "serviceImage": "https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "doctorPhoto": "https://www.middakotaclinic.com/uploads/59/iStock823893916_dcotor_welcome.jpg",
+      "doctorDescription": "Robert C. Sergott, MD is Chief of the Neuro-Ophthalmology Service at Wills Eye Hospital and Professor of Ophthalmology, Neurology, and Neurosurgery at Sidney Kimmel Medical College.  In addition to these core appointments, Dr. Sergott is also an attending neuro-ophthalmologist at Lankenau Hospital in Philadelphia, and Chief Executive Officer of the Optic Nerve Research Center, headquartered in Claymont, Delaware."
+
+    },
+    {
+      "id": 6,
+      "title": "OCULAR PATHOLOGY",
+      "doctor": "DR. John Riche",
+      "email": "Sincere@august.biz",
+      "price": "400",
+      "days": "3",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "The Ocular Pathology Service at Wills Eye processes one of the largest volumes of ophthalmic specimens in the world",
+      "image": "../images/001-x-ray.png",
+      "serviceImage": "https://ec.europa.eu/programmes/horizon2020/sites/default/files/newsroom/voxel_20843.jpg",
+      "doctorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzBptmWeeSaJg37L5ZLe7Uf-ZFrnNc3ZtSPZ-QVEqrUqruPgy_0ui_3b3zTHTi-gUPqc&usqp=CAU",
+      "doctorDescription": "Dr. John was born in Boston and raised in Hershey, Pennsylvania. He graduated from Dartmouth College then earned his Doctor of Medicine and Master of Business Administration degrees from Penn State University, where he was elected into the Alpha Omega Alpha and Beta Gamma Sigma honor societies."
+
+    },
+    {
+      "id": 7,
+      "title": "OCULOPLASTIC AND ORBITAL SURGERY SERVICE",
+      "doctor": "Robert Pen",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "The Oculoplastic & Orbital Surgery Service at Wills Eye deals with reshaping the area in and around the eye. Oculoplastic surgery is often performed to correct or treat a medical condition or an injury. It is also done for cosmetic purposes. Oculoplastic and orbital surgery is concerned specifically with the eyelids, the orbit (the bone around the eye), and the lacrimal system (the tear duct system).",
+      "image": "../images/008-flask.png",
+      "serviceImage": "https://www.tipt.com/wp-content/uploads/2019/04/march-7-quality-assurance-training.jpg",
+      "doctorPhoto": "https://media.istockphoto.com/photos/portrait-of-middle-aged-asian-female-doctor-standing-in-hospital-picture-id1271328839?b=1&k=20&m=1271328839&s=170667a&w=0&h=SIMzwoe8eu43OoY4M3ElZCMxW9MgDbZbVzMhh4VY2zM=",
+      "doctorDescription": "Robert B. Penne, MD is Chief of the Oculoplastic and Orbital Surgery Service at Wills Eye Hospital. He is also co-director of the Wills Eye Ocular Cicatricial Pemphigoid Clinic. He grew up in North Dakota/Minnesota and attended college at North Dakota State University where he graduated first in his class. "
+
+    },
+    {
+      "id": 8,
+      "title": "GENERAL SURGERY",
+      "doctor": "DR. Drek Remore",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation, intensive care, and neoplasia, which are common to all surgical specialties.",
+      "image": "../images/surgery.png",
+      "serviceImage": "https://cdn-prod.medicalnewstoday.com/content/images/articles/320/320620/doctors-performing-surgery.jpg",
+      "doctorPhoto": "https://storage.googleapis.com/afs-prod/media/41e6f5a203724663aac709db10d61ce3/3000.jpeg",
+      "doctorDescription": "Dr. Drek Remore is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+    },
+    {
+      "id": 9,
+      "title": "AMBULENCE SERVICES",
+      "doctor": "DR. Morgan Azex",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "There are companies that provide transportation to patients who require transportation to and from a medical facility for treatment or physical exams.",
+      "image": "../images/ambulance.png",
+      "serviceImage": "https://www.deshambulance.com/wp-content/uploads/2021/01/ICU-Ambulance-Rental-1.jpeg",
+      "doctorPhoto": "https://st3.depositphotos.com/10654668/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg",
+      "doctorDescription": "Dr. Morgan Azex is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+    }
+  ]
